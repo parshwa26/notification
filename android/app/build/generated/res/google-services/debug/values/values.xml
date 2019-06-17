@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">980441315327-h909mkvl7elrfogbj6trmt5qbggg3b7v.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://react-native-lea-1558524856962.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">980441315327</string>
+    <string name="google_api_key" translatable="false">AIzaSyBa_9A_9gAtqT_BQXcRhs0IoGSD_WHYKKY</string>
+    <string name="google_app_id" translatable="false">1:980441315327:android:6e9deb976a3cb077</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBa_9A_9gAtqT_BQXcRhs0IoGSD_WHYKKY</string>
+    <string name="google_storage_bucket" translatable="false">react-native-lea-1558524856962.appspot.com</string>
+    <string name="project_id" translatable="false">react-native-lea-1558524856962</string>
+</resources>
